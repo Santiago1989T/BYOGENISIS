@@ -1,4 +1,5 @@
-🌎 Análisis del Impacto del COVID-19 y los Indicadores Socioeconómicos en América Latina
+Laboratorios Biogenesys
+
 
 
 📄 Descripción del Proyecto
@@ -26,11 +27,10 @@ En resumen, este proyecto tiene como objetivo analizar los datos disponibles par
 
 🛠 Requisitos del Sistema
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.2.0+-green.svg)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.19.5+-blue.svg)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3.3+-yellow.svg)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1+-blue.svg)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-4.14.3+-green.svg)](https://plotly.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-
+- Python 3.8 o superior
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter
